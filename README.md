@@ -1,4 +1,1 @@
 # Gudruns Veveri
-
-Epost:
-Telf:
