@@ -1,5 +1,7 @@
 # Gudruns Veveri
 
+Salg av håndvevde stolaer til prester, diakoner og kateketer.
+
 * Epost: gudrun.homstvedt@gmail.com
 * Telf: 959 99 861
 
