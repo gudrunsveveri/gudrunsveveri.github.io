@@ -19,3 +19,10 @@ section{
     display: flex;
     justify-content: center;
 }
+
+.bilder {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
